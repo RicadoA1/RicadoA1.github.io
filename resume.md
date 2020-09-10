@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Résumé
+title: 简历
 subtitle: An awesome person
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
-### SKILLS
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
+### 技能
+``` 努力成为一名web开发者  ```  
 
-### PROJECTS
+### 暂无
 **Title** - Description - Place <span style="float: right; ">Time span</span>  
 Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
 
@@ -20,7 +20,7 @@ Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse pl
 **Title** - Description - Place <span style="float: right; ">Time span</span>  
 Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
 
-### EDUCATION
+### 经历
 
 Institute <span style="float: right; ">Duration</span>  
 **Course**  
@@ -52,9 +52,4 @@ Technologies used
 
 ### RECOGNITION & INTERESTS
 
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
+芜湖 芜湖 芜湖！
