@@ -10,5 +10,5 @@ sitemap:
 
 <div id="describe-text">
 	<p>拾级而上 一往无前</p>
-	<p>来自我们所有人，为你们每一位 <strong> <a href="www.baidu.com"> repository</a> </strong></p>
+	<p>来自我们所有人，为你们每一位 </p>
 </div>

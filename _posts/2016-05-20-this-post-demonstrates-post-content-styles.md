@@ -2,7 +2,7 @@
 layout: page
 title: "T第一周手写笔记复刻"
 subtitle: "This is a subtitle"
-date:   2020=09-11
+date:   "2020-09-11"
 categories: junk
 author: "Bart Simpson"
 meta: "Springfield"
