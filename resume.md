@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 简历
+title: 简介
 subtitle: An awesome person
 ---
 
