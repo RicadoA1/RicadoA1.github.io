@@ -9,6 +9,6 @@ sitemap:
 <img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability</p>
-	<p>Fork and use the theme from the <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+	<p>拾级而上 一往无前</p>
+	<p>来自我们所有人，为你们每一位 <strong> <a href="www.baidu.com"> repository</a> </strong></p>
 </div>
