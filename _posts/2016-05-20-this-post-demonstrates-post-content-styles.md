@@ -1,40 +1,109 @@
 ---
 layout: page
-title: "T第一周手写笔记复刻"
+title: "This post demonstrates post content styles"
 subtitle: "This is a subtitle"
-date:   "2020-09-11"
+date:   2016-05-20 21:21:21 +0530
 categories: junk
 author: "Bart Simpson"
 meta: "Springfield"
 ---
 
-- 将本地代码推送到远程版本仓库 ps：远程版本仓库=中转站（如git）
-- 分支管理
-- 安装
-   - 1：工作目录  2：压缩包目录  3：安装目录
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
 
-- 电脑三大系统 Mac、Linux、windows
-   - 三大系统都是Unix内核，Linux主要厂牌是Ubuntu/centos    
+## Some great heading (h2)
 
-- 命令行工具（又称终端）
-   - 解释命令（命令=小软件）：指示要用哪个工具去做事情
-   - 
-- markdow 标记语言 （速记用）
+Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
 
-- git命令
-   - git int    （初始化本地版本库）
-   - git status （查看本地版本状态）
-      - 本地版本库由暂存区和本地版本库组成，status查看代码是否提交，未提交至任意位置则为红色，在暂存区则为绿色，提交至本地版本库则为clean
-   - git add .  （当前文件夹所有内容提交至暂存区）
-   - git commit -m "第一次提交"   （提交至本地版本库）
-   - git clone 克隆 
-   - git push   （推送至远程版本库）ps：推送前必须clean，完整表述为"http://xxx.git.io master:master"
-  
-- URL：协议、客户端、服务端、端口
-   - 客户端=发送请求的软件
-   - 服务端=接受请求的软件
+Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
 
-- 映射关系：一对一的关系
-   - 去host文件寻找域名与IP的映射关系
-      - host文件在 C:\windows\sys32\drivers\etc
-   - 去DNS服务器中查找
+## Another great heading (h2)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+
+### Some great subheading (h3)
+
+Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
+
+Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
+
+### Some great subheading (h3)
+
+Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+
+> This quote will change your life. It will reveal the secrets of the universe, and all the wonders of humanity. Don't misuse it.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.
+
+### Some great subheading (h3)
+
+Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.
+
+```html
+<html>
+  <head>
+  </head>
+  <body>
+    <p>Hello, World!</p>
+  </body>
+</html>
+```
+
+
+In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+
+#### You might want a sub-subheading (h4)
+
+In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+
+In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+
+#### But it's probably overkill (h4)
+
+In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+
+### Oh hai, an unordered list!!
+
+In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+
+- First item, yo
+- Second item, dawg
+- Third item, what what?!
+- Fourth item, fo sheezy my neezy
+
+### Oh hai, an ordered list!!
+
+In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+
+1. First item, yo
+2. Second item, dawg
+3. Third item, what what?!
+4. Fourth item, fo sheezy my neezy
+
+
+
+## Headings are cool! (h2)
+
+Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+
+Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+
+Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
+
+### Tables
+
+Title 1               | Title 2               | Title 3               | Title 4
+--------------------- | --------------------- | --------------------- | ---------------------
+lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit
+lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
+lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
+lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit  
+
+
+With uneven columns
+
+Title 1 | Title 2 | Title 3 | Title 4
+--- | --- | --- | ---
+lorem | lorem ipsum | lorem ipsum dolor | lorem ipsum dolor sit
+lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur | lorem ipsum dolor sit amet | lorem ipsum dolor sit
+lorem ipsum dolor | lorem ipsum | lorem | lorem ipsum
+lorem ipsum dolor | lorem ipsum dolor sit | lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur
